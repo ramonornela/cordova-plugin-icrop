@@ -17,7 +17,7 @@
     <engine name="cordova-ios" version=">=3.5.0" />
   </engines>
 
-  <js-module src="www/crop.js" name="CropPlugin">
+  <js-module src="www/icrop.js" name="CropPlugin">
     <clobbers target="plugins.crop" />
   </js-module>
 
